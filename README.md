@@ -1,3 +1,3 @@
-"#1 Expanding Cards" 
+#1 Expanding Cards
 
 https://expanding-cards-animation.netlify.app/
